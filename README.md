@@ -689,25 +689,24 @@ src="https://streak-stats.demolab.com?user=imranakhtar1786&theme=transparent&hid
 
 # 🐍 Contribution Snake
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/imranakhtar1786/imranakhtar1786/output/github-contribution-grid-snake-dark.svg"
     />
-
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/imranakhtar1786/imranakhtar1786/output/github-contribution-grid-snake.svg"
     />
-
     <img
       src="https://raw.githubusercontent.com/imranakhtar1786/imranakhtar1786/output/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake"
     />
   </picture>
 </p>
-
 ---
 
 # 📈 GitHub Activity
