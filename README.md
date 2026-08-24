@@ -3,13 +3,6 @@
 <!-- ========================================================= -->
 
 <div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Imran%20Akhtar&fontSize=52&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Python%20%7C%20Django&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:0B0B0F,50:D4AF37,100:0B0B0F"
-  width="100%"
-  alt="Imran Akhtar"
-/>
-
 # 👋 Hi, I'm **Imran Akhtar**
 
 ### Full Stack Developer • React • Next.js • Vue • Python • Django • FastAPI
