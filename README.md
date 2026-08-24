@@ -35,57 +35,82 @@ hobbies:         [Traveling, Cooking]
 
 ## 🛠️ Tech Stack
 
+> 💡 Hover over any icon to see my proficiency level for that skill.
+
 <div align="center">
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,bootstrap,sass&theme=dark" />
+<img title="Advanced" src="https://skillicons.dev/icons?i=html&theme=dark" height="45"/>
+<img title="Advanced" src="https://skillicons.dev/icons?i=css&theme=dark" height="45"/>
+<img title="Advanced" src="https://skillicons.dev/icons?i=js&theme=dark" height="45"/>
+<img title="Advanced" src="https://skillicons.dev/icons?i=react&theme=dark" height="45"/>
+<img title="Advanced" src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="45"/>
+<img title="Learning" src="https://skillicons.dev/icons?i=vue&theme=dark" height="45"/>
+<img title="Intermediate" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="45"/>
+<img title="Intermediate" src="https://skillicons.dev/icons?i=sass&theme=dark" height="45"/>
 
 <br/><br/>
 
 **Backend & APIs**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,express,php&theme=dark" />
+<img title="Advanced" src="https://skillicons.dev/icons?i=python&theme=dark" height="45"/>
+<img title="Advanced" src="https://skillicons.dev/icons?i=django&theme=dark" height="45"/>
+<img title="Learning" src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="45"/>
+<img title="Intermediate" src="https://skillicons.dev/icons?i=express&theme=dark" height="45"/>
+<img title="Basic" src="https://skillicons.dev/icons?i=php&theme=dark" height="45"/>
 
 <br/><br/>
 
 **Databases & State**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,redux&theme=dark" />
+<img title="Intermediate" src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45"/>
+<img title="Intermediate" src="https://skillicons.dev/icons?i=postgres&theme=dark" height="45"/>
+<img title="Intermediate" src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="45"/>
+<img title="Intermediate" src="https://skillicons.dev/icons?i=redis&theme=dark" height="45"/>
+<img title="Intermediate" src="https://skillicons.dev/icons?i=redux&theme=dark" height="45"/>
 
 <br/><br/>
 
 **DevOps & Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,nginx,githubactions&theme=dark" />
+<img title="Learning" src="https://skillicons.dev/icons?i=docker&theme=dark" height="45"/>
+<img title="Learning" src="https://skillicons.dev/icons?i=aws&theme=dark" height="45"/>
+<img title="Advanced" src="https://skillicons.dev/icons?i=vercel&theme=dark" height="45"/>
+<img title="Intermediate" src="https://skillicons.dev/icons?i=netlify&theme=dark" height="45"/>
+<img title="Intermediate" src="https://skillicons.dev/icons?i=nginx&theme=dark" height="45"/>
+<img title="Basic" src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="45"/>
 
 <br/><br/>
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<img title="Advanced" src="https://skillicons.dev/icons?i=git&theme=dark" height="45"/>
+<img title="Advanced" src="https://skillicons.dev/icons?i=github&theme=dark" height="45"/>
+<img title="Advanced" src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45"/>
+<img title="Intermediate" src="https://skillicons.dev/icons?i=postman&theme=dark" height="45"/>
 
 </div>
 
 <br/>
 
 <details>
-<summary><b>📋 View skills as text list</b></summary>
+<summary><b>📋 View skills as text list (with levels)</b></summary>
 <br/>
 
-**Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Vue.js, Responsive Design, Flexbox, CSS Grid, SCSS, Bootstrap, MUI
+**Frontend Development:** HTML5 (Advanced), CSS3 (Advanced), JavaScript ES6+ (Advanced), React.js (Advanced), Next.js (Advanced), Vue.js (Learning), Bootstrap (Intermediate), SCSS (Intermediate), Responsive Design, Flexbox, CSS Grid, MUI
 
-**Backend Development & APIs:** Python, Django, Django REST Framework (DRF), FastAPI, Express.js, REST API Development, API Integration, API Optimization
+**Backend Development & APIs:** Python (Advanced), Django (Advanced), Django REST Framework (Advanced), FastAPI (Learning), Express.js (Intermediate), PHP (Basic), REST API Development, API Integration & Optimization
 
-**Databases:** MySQL, PostgreSQL, SQLite, SQL, Redis (caching)
+**Databases:** MySQL (Intermediate), PostgreSQL (Intermediate), SQLite (Intermediate), Redis/caching (Intermediate), SQL
 
-**State Management:** Redux, Zustand
+**State Management:** Redux (Intermediate), Zustand (Intermediate)
 
-**DevOps & Cloud:** Docker, AWS, Vercel, Netlify, DigitalOcean, GoDaddy VPS, Hostinger, Nginx, CI/CD (GitHub Actions)
+**DevOps & Cloud:** Docker (Learning), AWS (Learning), Vercel (Advanced), Netlify (Intermediate), Nginx (Intermediate), DigitalOcean, GoDaddy VPS, Hostinger, CI/CD basics (Basic)
 
-**Programming Languages:** Python, JavaScript, PHP (basic)
+**Programming Languages:** Python (Advanced), JavaScript (Advanced), PHP (Basic)
 
-**Tools & Environment:** Git, GitHub, VS Code, Postman, Clean Code Practices, Debugging, Problem Solving
+**Tools & Environment:** Git (Advanced), GitHub (Advanced), VS Code (Advanced), Postman (Intermediate), Clean Code Practices, Debugging, Problem Solving
 
 </details>
 
