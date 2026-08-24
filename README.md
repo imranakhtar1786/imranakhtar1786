@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1a1a2e&height=220&section=header&text=Imran%20Akhtar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Django%20%C2%B7%20FastAPI&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6DDCFF&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+%F0%9F%9A%80;React.js+%2B+Next.js+%2B+Django+%2B+DRF;Now+exploring+Docker+%2B+AWS+%2B+Vue.js" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6DDCFF&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+%F0%9F%9A%80;React.js+%2B+Next.js+%2B+Vue.js;Django+%2B+FastAPI+%2B+Docker+%2B+AWS" />
 
 <br/>
 
@@ -27,7 +27,7 @@ previous:        Full Stack Developer @ DPT Hub Pvt Limited
 education:       B.Tech IT — Greater Noida Institute of Technology
 location:        Mayur Vihar III, Delhi, India
 languages:       [English, Hindi]
-learning_now:    [Docker, AWS, Vue.js, FastAPI]
+core_skills:     [React, Next.js, Vue.js, Django, FastAPI, Docker, AWS]
 hobbies:         [Traveling, Cooking]
 ```
 
@@ -66,6 +66,28 @@ hobbies:         [Traveling, Cooking]
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
 </div>
+
+<br/>
+
+<details>
+<summary><b>📋 View skills as text list</b></summary>
+<br/>
+
+**Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Vue.js, Responsive Design, Flexbox, CSS Grid, SCSS, Bootstrap, MUI
+
+**Backend Development & APIs:** Python, Django, Django REST Framework (DRF), FastAPI, Express.js, REST API Development, API Integration, API Optimization
+
+**Databases:** MySQL, PostgreSQL, SQLite, SQL, Redis (caching)
+
+**State Management:** Redux, Zustand
+
+**DevOps & Cloud:** Docker, AWS, Vercel, Netlify, DigitalOcean, GoDaddy VPS, Hostinger, Nginx, CI/CD (GitHub Actions)
+
+**Programming Languages:** Python, JavaScript, PHP (basic)
+
+**Tools & Environment:** Git, GitHub, VS Code, Postman, Clean Code Practices, Debugging, Problem Solving
+
+</details>
 
 <br/>
 
