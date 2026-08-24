@@ -83,84 +83,85 @@ Production 🚀
 
 ---
 
-# ⚡ Developer Snapshot
+<h2>⚡ Developer Snapshot</h2>
 
-```javascript
-const imran = {
-  name: "Imran Akhtar",
+<details>
+<summary><b>👨‍💻 View my developer profile</b></summary>
 
-  role: "Full Stack Developer",
+<br>
 
-  location: "Delhi, India",
+<table>
+<tr>
+<td><b>👤 Name</b></td>
+<td>Imran Akhtar</td>
+</tr>
 
-  frontend: [
-    "React.js",
-    "Next.js",
-    "JavaScript",
-    "HTML5",
-    "CSS3",
-    "SCSS",
-    "Tailwind CSS",
-    "Bootstrap",
-    "MUI"
-  ],
+<tr>
+<td><b>💼 Role</b></td>
+<td>Full Stack Developer</td>
+</tr>
 
-  backend: [
-    "Python",
-    "Django",
-    "Django REST Framework",
-    "Express.js"
-  ],
+<tr>
+<td><b>📍 Location</b></td>
+<td>Delhi, India</td>
+</tr>
 
-  databases: [
-    "PostgreSQL",
-    "MySQL",
-    "SQLite",
-    "MongoDB"
-  ],
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td>React.js · Next.js · JavaScript · HTML5 · CSS3 · SCSS · Tailwind CSS · Bootstrap · MUI</td>
+</tr>
 
-  stateManagement: [
-    "Zustand",
-    "Redux"
-  ],
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>Python · Django · Django REST Framework · Express.js</td>
+</tr>
 
-  caching: [
-    "Redis"
-  ],
+<tr>
+<td><b>🗄️ Database</b></td>
+<td>PostgreSQL · MySQL · SQLite · MongoDB</td>
+</tr>
 
-  animation: [
-    "GSAP",
-    "Framer Motion",
-    "Lenis",
-    "Swiper"
-  ],
+<tr>
+<td><b>🔄 State Management</b></td>
+<td>Zustand · Redux</td>
+</tr>
 
-  deployment: [
-    "Vercel",
-    "DigitalOcean",
-    "Netlify",
-    "Hostinger",
-    "Nginx",
-    "Ubuntu"
-  ],
+<tr>
+<td><b>⚡ Caching</b></td>
+<td>Redis</td>
+</tr>
 
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Postman"
-  ],
+<tr>
+<td><b>🎬 Animation</b></td>
+<td>GSAP · Framer Motion · Lenis · Swiper</td>
+</tr>
 
-  focus: [
-    "Scalable Web Applications",
-    "Performance Optimization",
-    "REST APIs",
-    "Database Optimization",
-    "Cloud Deployment"
-  ]
-};
-```
+<tr>
+<td><b>☁️ Deployment</b></td>
+<td>Vercel · DigitalOcean · Netlify · Hostinger · Nginx · Ubuntu</td>
+</tr>
 
+<tr>
+<td><b>🛠️ Tools</b></td>
+<td>Git · GitHub · VS Code · Postman</td>
+</tr>
+
+<tr>
+<td><b>🎯 Current Focus</b></td>
+<td>Scalable Web Applications · Performance Optimization · REST APIs · Database Optimization · Cloud Deployment</td>
+</tr>
+
+</table>
+
+<br>
+
+### 🚀 Core Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,python,django,postgres,mysql,redis,git,github,docker,linux" />
+</p>
+
+</details>
 ---
 
 # 🧠 Technical Skills
