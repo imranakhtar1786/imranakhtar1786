@@ -1,292 +1,148 @@
-<!-- ========================================================= -->
-<!--                    IMRAN AKHTAR GITHUB                    -->
-<!-- ========================================================= -->
-
-<div align="center">
-# 👋 Hi, I'm **Imran Akhtar**
-
-### Full Stack Developer • React • Next.js • Vue • Python • Django • FastAPI
-
-<p>
-  <b>
-    Building scalable, performant, responsive and production-ready web applications.
-  </b>
-</p>
-
-<br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=900&color=D4AF37&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Vue.js;Python+%7C+Django+%7C+FastAPI;REST+API+Development;Scalable+Web+Applications;Performance+Optimization;Docker+%7C+AWS+%7C+Cloud+Deployment;Clean+%26+Maintainable+Code;Turning+Ideas+Into+Production+Ready+Products+%F0%9F%9A%80"
-  alt="Typing animation"
-/>
-
-<br/><br/>
-
-<a href="mailto:Imranakhtar1786@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<a href="https://github.com/imranakhtar1786">
-  <img
-    src="https://img.shields.io/badge/GitHub-imranakhtar1786-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<br/><br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=imranakhtar1786&label=PROFILE%20VIEWS&color=D4AF37&style=for-the-badge"
-  alt="Profile Views"
-/>
-
-<br/><br/>
-
-<img
-  src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=flat-square"
-  alt="Open to opportunities"
-/>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-I'm a **Full Stack Developer** focused on building modern, scalable and production-ready web applications.
-
-I work across the complete development lifecycle — from **UI/UX architecture and frontend development to backend APIs, databases, caching, Docker, cloud deployment and performance optimization**.
-
-### 🚀 Core Technologies
-
-- ⚛️ **React.js**
-- ▲ **Next.js**
-- 🟢 **Vue.js**
-- 🐍 **Python**
-- 🎯 **Django**
-- ⚡ **FastAPI**
-- 🔌 **Django REST Framework**
-- 🚀 **Express.js**
-- 🗄️ **PostgreSQL / MySQL / MongoDB**
-- 🔴 **Redis**
-- 🐳 **Docker**
-- ☁️ **AWS**
-- ▲ **Vercel**
-- 🖥️ **DigitalOcean / VPS**
-
-I enjoy turning ideas into complete products with a strong focus on:
-
-> **Performance • Scalability • Clean Architecture • Responsive UI • API Design • Deployment**
-
----
-
-# ⚡ Developer Snapshot
-
-<details>
-<summary><b>👨‍💻 Click to view my complete developer profile</b></summary>
-
-<br/>
-
-<table>
-<tr>
-<td><b>👤 Name</b></td>
-<td>Imran Akhtar</td>
-</tr>
-
-<tr>
-<td><b>💼 Role</b></td>
-<td>Full Stack Developer</td>
-</tr>
-
-<tr>
-<td><b>📍 Location</b></td>
-<td>Delhi, India</td>
-</tr>
-
-<tr>
-<td><b>🎨 Frontend</b></td>
-<td>React.js · Next.js · Vue.js · JavaScript · HTML5 · CSS3 · SCSS · Tailwind CSS · Bootstrap · MUI</td>
-</tr>
-
-<tr>
-<td><b>⚙️ Backend</b></td>
-<td>Python · Django · Django REST Framework · FastAPI · Express.js</td>
-</tr>
-
-<tr>
-<td><b>🗄️ Databases</b></td>
-<td>PostgreSQL · MySQL · SQLite · MongoDB</td>
-</tr>
-
-<tr>
-<td><b>⚡ Caching</b></td>
-<td>Redis</td>
-</tr>
-
-<tr>
-<td><b>🔄 State Management</b></td>
-<td>Zustand · Redux</td>
-</tr>
-
-<tr>
-<td><b>🎬 Animation</b></td>
-<td>GSAP · Framer Motion · Lenis · Swiper</td>
-</tr>
-
-<tr>
-<td><b>🐳 DevOps</b></td>
-<td>Docker · Nginx · Apache · Linux · CI/CD Concepts</td>
-</tr>
-
-<tr>
-<td><b>☁️ Cloud</b></td>
-<td>AWS · Vercel · DigitalOcean · Netlify · Hostinger</td>
-</tr>
-
-<tr>
-<td><b>🛠️ Tools</b></td>
-<td>Git · GitHub · VS Code · Postman · Linux CLI</td>
-</tr>
-
-<tr>
-<td><b>🎯 Focus</b></td>
-<td>Scalable Applications · REST APIs · Performance · Database Optimization · Cloud Deployment</td>
-</tr>
-
-</table>
-
-<br/>
-
-### 🚀 Core Stack
+<h1 align="center">Hi there, I'm Imran Akhtar 👋</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css,tailwind,python,django,fastapi,express" alt="Frontend and backend technologies"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Django+%7C+FastAPI;Building+scalable+web+apps+%F0%9F%9A%80;Now+exploring+Docker+%2B+AWS+%2B+Vue.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,aws,linux,nginx,git,github,vscode,postman" alt="Database cloud and development tools"/>
+  <a href="mailto:Imranakhtar1786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/imranakhtar1786"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=imranakhtar1786&style=for-the-badge&color=blueviolet" alt="Profile views">
 </p>
 
-</details>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+</p>
+
+> ⚠️ The snake animation above needs a one-time GitHub Actions setup on your profile repo — instructions are in the "Optimization Checklist" section at the bottom so it actually renders instead of showing broken.
 
 ---
 
-# 🧠 Technical Skills
+### 🧑‍💻 About Me
 
-## 🎨 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,scss,bootstrap" alt="Frontend skills"/>
-</p>
-
-| Technology | Focus |
-|---|---|
-| ⚛️ React.js | Component-based application development |
-| ▲ Next.js | Full-stack React applications |
-| 🟢 Vue.js | Modern reactive frontend applications |
-| 🟨 JavaScript | ES6+ modern JavaScript |
-| 🔷 TypeScript | Type-safe application development |
-| 🌐 HTML5 | Semantic and accessible markup |
-| 🎨 CSS3 | Responsive and modern UI |
-| 💎 SCSS | Structured and maintainable styling |
-| 🌊 Tailwind CSS | Utility-first UI development |
-| 🅱️ Bootstrap | Responsive UI development |
-| 🎨 MUI | React component systems |
+```yaml
+name: Imran Akhtar
+role: Full Stack Developer
+current_job: "Web Development Executive @ ADCLAN Media Service Pvt Ltd"
+previous_job: "Full Stack Developer @ DPT Hub Pvt Limited"
+education: "B.Tech IT, Greater Noida Institute of Technology"
+location: "Mayur Vihar III, Delhi, India"
+languages: ["English", "Hindi"]
+currently_learning: ["Docker", "AWS", "Vue.js", "FastAPI"]
+hobbies: ["Traveling", "Cooking"]
+fun_fact: "I turn coffee and clean code practices into shipped products ☕"
+```
 
 ---
 
-# ⚙️ Backend Development
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,express,nodejs" alt="Backend technologies"/>
-</p>
+**Frontend**
 
-### Backend Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-- 🐍 Python
-- 🎯 Django
-- 🔌 Django REST Framework
-- ⚡ FastAPI
-- 🚀 Express.js
-- 🟢 Node.js
-- REST API development
-- API integration
-- Authentication & authorization concepts
-- API optimization
-- Backend debugging
-- Server-side application development
-- JSON-based API architecture
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Databases & State**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-# 🗄️ Databases & Caching
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" alt="Databases"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imranakhtar1786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranakhtar1786&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </p>
 
-### Databases
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranakhtar1786&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-- PostgreSQL
-- MySQL
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imranakhtar1786&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imranakhtar1786&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **NSTEE** | Full-stack premium T-shirt e-commerce platform | Django, DRF, PostgreSQL, Redis, Next.js, Zustand, MUI |
+| **Adclan** | Digital marketing agency site with smooth animations & PWA | Next.js, GSAP, Swiper, Lenis, Framer Motion |
+| **ABBuildCon India** | Construction & architecture portfolio with admin panel | Next.js, Supabase (PostgreSQL + Storage) |
+| **Elmas Group** | Real estate showcase site, Nginx-deployed on Ubuntu | Next.js, GSAP, Swiper, Lenis |
+| **DPT Hub** | 360° digital agency portfolio website | React.js, SCSS, JavaScript |
+| **AR Interiors** | Interior design portfolio with interactive sections | React.js, Bootstrap, SCSS |
+| **Rudra Theme** *(in progress)* | Modern real estate website theme | Next.js, React.js, GSAP, Swiper, Lenis |
+| **Kiloi Foods** | WordPress migration, domain transfer & VPS deployment | WordPress, Apache, MySQL, Ubuntu VPS |
+
+> 🔗 Explore more on my [GitHub](https://github.com/imranakhtar1786)
+
+---
+
+### 🎓 Certifications
+
+- Java Training — RIMUS Technologies (Stock & Sales Management System)
+- Data Analytics Training — ICT Academy (Sponsored by Honeywell), MS Power BI
+- Python Development Internship — OctaNet (ATM Interface Project)
+- OOPs in Java — Great Learning
+- Python — HackerRank
+- Introduction to MySQL
 - MongoDB
-- SQLite
-- SQL
-
-### Database Engineering
-
-- Database design
-- Relationships
-- Query optimization
-- Indexing concepts
-- Data normalization
-- Pagination
-- Efficient database access
-
-### ⚡ Caching
-
-- Redis
-- API caching
-- Response caching
-- Cache invalidation concepts
-- Performance optimization
+- HTML, CSS & JavaScript for Web Developers
 
 ---
 
-# 🎬 Animation & Interactive UI
+### 📫 Let's Connect
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js" alt="Interactive UI technologies"/>
+<p align="left">
+  <a href="mailto:Imranakhtar1786@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/imranakhtar1786"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"></a>
 </p>
 
-### Animation Technologies
+<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
 
-- GSAP
-- Framer Motion
-- Lenis
-- Swiper
-- Lucide
-- CSS animations
-- Scroll-based animations
-- Smooth scrolling
-- Micro-interactions
-- Interactive UI
-- Page transitions
-
-### 🎨 UI Philosophy
-
-```text
-Beautiful UI
-     ↓
-Smooth Interaction
-     ↓
-Fast Rendering
-     ↓
-Responsive Layout
-     ↓
-Accessible Experience
-     ↓
-Production Ready 🚀
+---
